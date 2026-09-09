@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://czasowniki.pl/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/lista/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/lista/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/seznam/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/dla-nauczycieli/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/dla-nauczycieli/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/pro-skoly/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/czasowniki-nieregularne-lista.pdf</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/i-a-u/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/i-a-u/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/i-a-u/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ow-ew-own/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ow-ew-own/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ow-ew-own/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/i-o-i-en/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/i-o-i-en/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/i-o-i-en/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/samogloska-en/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/samogloska-en/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/samohlaska-en/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/wieksze-zmiany-en/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/wieksze-zmiany-en/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/silne-zmeny-en/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ake-ook-aken/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ake-ook-aken/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ake-ook-aken/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/e-o-o-en/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/e-o-o-en/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/e-o-o-en/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/o-w-srodku/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/o-w-srodku/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/o-uprostred/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/i-e-i-en/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/i-e-i-en/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/i-e-i-en/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ear-ore-orn/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ear-ore-orn/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ear-ore-orn/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/bez-reguly-trzy-formy/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/bez-reguly-trzy-formy/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/bez-pravidla-tri-tvary/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ee-ea-e-t/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ee-ea-e-t/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ee-ea-e-t/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ea-krotkie-t/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ea-krotkie-t/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ea-kratke-t/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ought-aught/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ought-aught/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ought-aught/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/d-na-t/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/d-na-t/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/d-na-t/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/czesto-regularne-t/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/czesto-regularne-t/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/casto-pravidelne-t/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/eed-ed/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/eed-ed/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/eed-ed/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ay-aid/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ay-aid/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ay-aid/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/ell-old/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/ell-old/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/ell-old/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/koncowka-d-bez-reguly/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/koncowka-d-bez-reguly/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/koncovka-d-bez-pravidla/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/i-u/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/i-u/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/i-u/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/zmiana-samogloski/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/zmiana-samogloski/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/zmena-samohlasky/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/bezok-rowna-sie-pp/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/bezok-rowna-sie-pp/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/inf-rovna-pp/" />
+  </url>
+  <url>
+    <loc>https://czasowniki.pl/grupa/wszystkie-trzy-takie-same/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://czasowniki.pl/grupa/wszystkie-trzy-takie-same/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://ucseslovesa.cz/skupina/vsechny-tri-stejne/" />
+  </url>
+</urlset>
